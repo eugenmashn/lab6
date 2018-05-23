@@ -1,2 +1,2 @@
 # lab6
-![](scr2.png)
+![](scr1.png)
